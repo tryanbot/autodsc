@@ -1,0 +1,17 @@
+#eda
+pandas_profiling==3.0.0
+#shapely
+shapely
+#shap
+shap
+#autoviz
+autoviz
+
+#model
+catboost
+
+#utility
+sklearn
+category_encoders
+
+jinja2<3.1.0
